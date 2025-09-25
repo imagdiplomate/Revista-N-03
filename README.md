@@ -1,4 +1,3 @@
-# Revista-N-03
 # Creating a simple "Próximamente" webpage and saving it to /mnt/data/proximamente.html
 html = """<!doctype html>
 <html lang="es">
